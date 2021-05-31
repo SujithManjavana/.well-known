@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.creativeday.skyhigh",
+    "sha256_cert_fingerprints":
+    ["97:2B:51:35:6E:64:B7:4E:1B:E4:11:DB:B0:67:BA:10:69:96:CD:D3:F3:85:C9:E8:29:A7:7A:AD:D0:AF:1C:03"]
+  }
+}]
